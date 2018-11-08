@@ -1,0 +1,27 @@
+html, body {}
+
+img{
+	width: ;
+	height: ;
+}
+
+p{}
+
+div{
+	height: ;
+	width: ;
+}
+.id="fondo"{
+	width: 100%;
+	height: 30%;
+	float: left;
+}
+
+.relative{
+	    		position: relative;
+	    	}
+	    	.absolute{
+	    		position: absolute; 
+	    		top: 0px;
+	    		float: left;
+	    	}
