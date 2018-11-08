@@ -10,9 +10,15 @@
 		font-family: "Open Sans";
 	}
 
+	h4{text-align: center; 
+		font-family: "Open Sans";
+		display: inline-block;
+	}
+
 	p{text-align: center; 
 		font-family: "Open Sans";
 		font-size: 12px;
+
 	}
 
 	div{
@@ -55,4 +61,12 @@ width: 85px;
 position: relative; 
 	float:left;
 	border-radius: 10px;
+}
+
+.box3{
+background-color: black;
+height: 45px;
+width: 100%;
+position: relative; 
+	float:left;
 }
