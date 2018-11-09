@@ -26,7 +26,18 @@
 	width: 1520px;
 	}
 
+	th{font-family: "Open Sans"; 
+	font-weight: lighter;
 	}
+
+	td{font-family: "Open Sans";
+	font-size: 12px;
+	}
+	table{
+		display: inline;
+	}
+	}
+
 
 .relative{
 	position: relative;
